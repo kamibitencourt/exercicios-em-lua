@@ -1,0 +1,43 @@
+=>Função PRINT -> imprimir um valor n terminal 
+
+=> Ramdomizar: deixar no aleatório
+
+=>Função Type  -> Para verificar o tipo de dado de um variável
+
+Concatenação -> símbolo ..
+
+Operadores são símbolos ou palavras chaves utilizadas para fazer algo dentro da linguagem
+
+- operador de atribuição é =
+- operador de concatenação é ..
+- operadores aritméticos (matemática)
+- operadores lógicos (verificar lógica mais apurada)
+- annd = e
+or = ou
+not = contrario
+
+=>Ordem de  precedência na aritmética >> PEMDAS
+1 Parênteses = 0
+2 Exponenciação = ³,²
+3 Multiplicação e Divisão *,/
+4 Soma e Subtração +, -
+
+--Não pode concatenar com valor boleano
+
+
+if then = > executo um bloco de código se a condição for verdadeira
+if then else => uma verdadeira, uma falsa
+for => repetir bloco de código
+While: repetir bloco cógio se verdadeira condição
+type=> é a função nativa que verifica tipo de variável, o que está sendo guardado
+To number => Converte para um número
+
+*newText()
+Irá add texto tela e a função irá esperar os seguintes: texto, posição x, y, tamanho)
+
+*newRoundedRect
+Um quadrado ou retângulo na tela com bordas
+
+
+
+

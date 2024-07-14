@@ -1,0 +1,22 @@
+LUA é usada para estender programas escritos não só em C e C++, mas também Java...
+
+- JOGOS QUE UTILIZAM LUA: 
+Roblox, Gmod (Garrys Mod), Angry Birds, Dota 1, 2, Tibia, GTA 1,2,3, PAYDAY 3, Doom 3, League of legends, Transformice...
+
+- PROGRAMAS QUE UTILIZAM LUA:
+-Playstation home, Corona SDK, Love 2D, Cry Engine 3, Adobe Photoshop CS
+
+-Sempre coloco aspas entre os textos,
+-anotação = -- (antes)
+-NIL: Ausência de valor,
+-STRING: Texto,
+-Variável não pode ter espaço,
+
+Palavras que não posso usar como variáveis (são reservadas para fazer coisas dentro das minhas variáveis): and, break, do, else, goto, wrile, print, type, local, nil, not, or, if, function, the, true
+
+=>Função PRINT -> imprimir um valor n terminal 
+
+=>Função Type  -> Para verificar o tipo de dado de um variável
+
+Concatenação -> símbolo ..
+

@@ -1,0 +1,25 @@
+=>Função time perform
+
+timer.performWithDelay()=executa em determinado tempo e quantidade de repetições
+
+Ex: timer.performWithDelay(1000, função,1)
+
+*RAMDOMIZAÇÃO*:
+
+math.ramdom é usada para gerar números aleatórios LUA
+PS: para algo realmente aleatório: math.randomseed
+
+TOUCH - podemos verificar toques na tela com esse evento e quem está recebendo esse toque
+
+event.x -> pega a posição x do toque
+event.y -> pega a posição y do toque
+
+event.phase = qual tipo de toque
+
+began = inicio do toque
+ended = fim do toque
+moved = movendo o toque
+canceled = se o toque foi cancelado pelo sistema
+
+TARGET
+event target = irá verificar quem está recebendo o toque

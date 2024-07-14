@@ -1,0 +1,34 @@
+Na função:
+. -> acesso
+.. -> adiciono
+
+-NewText()
+
+irá add texto na tela
+
+-NewCircle()
+irá add um circulo na tela 
+(posição x, y, tamanho)
+
+-NewRect()
+irá add um quadrado ou retângulo 
+(posição x e y, largura e altura)
+
+- NewRoundedRect()
+irá add um quadrado ou retângulo com bordas arredondadas
+
+- NewImageRect()
+irá add uma imagem na tela
+(endereço, largura, altura)
+
+- ContentWidht/Height
+display.contentWidht - tamanho LARGURA
+display.contentHeight -tamanho ALTURA
+
+- ContentCenter x/y
+display.contentcenterx = centro Largura
+display.contentcentery = centro Altura
+
+-SetStatusBar
+irá alterar a barra de status do dispositivo
+

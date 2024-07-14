@@ -1,0 +1,8 @@
+Uso do Transition:
+
+transition.to (objeto/parâmetro)- transiciona com parâmetros
+transition.blink - pisca objeto por um tempo
+transition.dissove - Transiciona um objeto p/ outro
+transition.pause - pausa uma transição
+transition.resume - continua de onde foi pausado
+transition.cancel - cancela a transição
